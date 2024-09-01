@@ -1,0 +1,10 @@
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\bin\Debug\ConsoleApplicationVBNET.exe
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\bin\Debug\ConsoleApplicationVBNET.pdb
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\bin\Debug\ConsoleApplicationVBNET.xml
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ResolveAssemblyReference.cache
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ConsoleApplicationVBNET.Resources.resources
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ConsoleApplicationVBNET.vbproj.GenerateResource.Cache
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ConsoleApplicationVBNET.exe
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ConsoleApplicationVBNET.xml
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\obj\Debug\ConsoleApplicationVBNET.pdb
+D:\PruebaTecnica\VBNET\ConsoleApplicationVBNET\ConsoleApplicationVBNET\bin\Debug\Config.xml

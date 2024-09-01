@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <connectionString>Data Source=HOME-PC\SQLEXPRESS;Initial Catalog=PRUEBATECNICA;User Id=sa;Password=Aqu.2020*sql;Integrated Security=True;</connectionString>
+  <logFile>log.txt</logFile>
+  <errorLogFile>errorlog.txt</errorLogFile>
+</config>
